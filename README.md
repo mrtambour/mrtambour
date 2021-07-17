@@ -5,7 +5,7 @@
 </p> 
 
 Hi, I'm Marty, welcome to my profile.
-- <i>Current Focus =></i> Developing applications with Dart and Flutter.
+- Dart, Flutter & Kotlin.
 
 
 

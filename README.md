@@ -5,7 +5,6 @@
 </p> 
 
 Hi, I'm Marty, welcome to my profile.
-- Dart, Flutter & Kotlin.
 
 
 

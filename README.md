@@ -1,9 +1,3 @@
-<p>  
-  <a href="https://github.com/mrtambour/mrtambour">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtambour&show_icons=true&theme=radical&count_private=true&hide=contribs,prs,stars" />
-  </a>
-</p> 
-
 Hi, I'm Marty, welcome to my profile.
 
 
